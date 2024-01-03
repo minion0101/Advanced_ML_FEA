@@ -11,6 +11,7 @@
 | [`main.ipynb`](/main.ipynb) | 課題で使用したスクリプト |
 | [`fig`](/fig) | モデルの概要と学習曲線 |
 | [`model`](/model) | 学習済みモデル(`.h5`形式) |
+| [`tuner_dir`](/tuner_dir) | Keras Tunerにより生成されたチェックポイント |
 
 #### 学習完了までに要した時間
 CPU: Intel Core i7-12700，RAM: 32GB
