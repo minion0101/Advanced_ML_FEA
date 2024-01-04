@@ -14,7 +14,12 @@
 | [`tuner_dir`](/tuner_dir) | Keras Tunerにより生成されたチェックポイント |
 
 #### 学習完了までに要した時間
-CPU: Intel Core i7-12700，RAM: 32GB
+【マシンスペック】
+- OS: Windows 11
+- CPU: Intel Core i7-12700
+- RAM: 32GB
+- Storage: 512GB SSD
+
 | モデル名 | 使用したモデル | 備考 | 時間 |
 | :--: | :-- | :-- | :-- |
 | rnn_model_1 | 多層パーセプトロン | 第6回課題で使用 | 2m 44.5s |
